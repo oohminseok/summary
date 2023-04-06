@@ -39,7 +39,7 @@
 //정보 은닉(information hiding): 캡슐화된 정보들의 내부 데이터를 감춤
 //범위 해결 연산자(scope resolution operator):  "클래스이름"::함수명 또는 변수명 으로 표기한다.
 //상수 멤버 함수(const member function): 상수 멤버함수는 멤버변수의 값을 변경할수 없다.
-//this 포인터: this는 객체 자기자신이다.
+//this 포인터: this는 객체 자기자신이며 const이다
 //속성(property):멤버 함수로 멤버변수의 값을 수정 getter(값 구해오기)/setter(값 지정하기) 라고도 부름
 //생성자(constructor): 객체가 만들어지면 자동으로 호출되는 생성자가 불린다.
 //소멸자(destructor): 객체가 소멸될떄 자동으로 소멸자가 불린다.
