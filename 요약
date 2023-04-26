@@ -142,5 +142,5 @@
 //RegisterWindoEx();클래스를 등록하는 함수
 //CreateWindow():윈도우 생성함수
 //While(GetMessage)){}:무한르프를 돌면서 메세지 큐에서 메시지를 꺼내온다.
-//DefwindowProc():무한루프에서 메시지가 발견되어 DispatchMessage가 호출되면 이 함숙 자동으로 불린다.
+//DefwindowProc():wm_close,wm_destroy외에 다른 메세지를 처리한다.
 //OutputDebugString():디버깅 메세지를 출력한다.
