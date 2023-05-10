@@ -180,13 +180,13 @@
 
 ----------------------------------------------------------------------------------------------------------------
 
-//Application Framework:
-//Microsoft::WRL::ComPtr:
-//Inline Function:
-//char vs wchar_t:
-//WM_CREATE:
-//Direct2D Resources:
-//Device Lost:
+//Application Framework: 뻐대 혹은 체계로 응용프로그램 표준 구조를 구현한 클래스와 라이브러리
+//Microsoft::WRL::ComPtr: 마이크로소프트에서 제공하는 스마트 포인터
+//Inline Function: 인라인 함수는 개별호출로 처리하지 않고 바로처리
+//char vs wchar_t:char(아스키코드 문자), wchar_t(유니코드 문자)
+//WM_CREATE:윈도우가 생성되면 발생되는 메세지
+//Direct2D Resources:장치독립적인 리소스(Device-inDependent Resource),장치의존적인 리소스(Device-Dependent Resource)
+//Device Lost: 장치손실(그래픽카드 업그레이드,그래픽카드가 변경될때,그래픽 카드가 스위칭 되는 경우, 장치가 응답이 없음)
 
 ----------------------------------------------------------------------------------------------------------------
 
