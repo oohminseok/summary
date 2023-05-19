@@ -267,3 +267,15 @@
 //HLSL
 
 ----------------------------------------------------------------------------------------------------------------
+
+//#defice WIN32_LEAN_AND_MEAN:
+//SetForegroundWindow():
+//SetFocus():
+//IDXGISwapChain:
+//ID3D11Device:
+//ID3D11DeviceContext:
+//ID3D11CreateDeviceAndSwapChain():
+//Resoucre&Resource View:
+//ID3D11Texture2D:
+
+--------------------------------------------------------------------------------------------------------------
