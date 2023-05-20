@@ -277,5 +277,16 @@
 //ID3D11CreateDeviceAndSwapChain():
 //Resoucre&Resource View:
 //ID3D11Texture2D:
+//ID3D11RenderTargetView:
+//ID3D11DepthStencilView:
+//IDXGISwapChain::GetBuffer():
+//ID3D11Device::CreateRenderTargetView():
+//ID3D11Device::CreateTexture2D():
+//ID3D11Device::CreateDepthStencilView():
+//ID3D11DeviceContext::OMSetRenderTargets():
+//ID3D11DeviceContext::RSSetViewports():
+//ID3D11DeviceContext::ClearRenderTargetView():
+//ID3D11DeviceContext::ClearDepthStecilView():
+//IDXGISwapChain::Present():
 
 --------------------------------------------------------------------------------------------------------------
