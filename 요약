@@ -194,8 +194,7 @@
 //Frame Buffer: V-RAM에 이미지를 저장해 놓고 화면에 보여주는 것을 frame buffer
 //Back Buffer: ram에 이미지를 저장해놓고 v-ram에 복사해서 전달하는 것을 back buffer
 //Bitmap:비트로 이루어진 맵 디지털 이미지 라고 한다.
-//Stack vs heap:
-//Alpah Blending:
+//Alpah Blending: 두개의 이미지를 겹칠떄 투명하게 나타내는 효과
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -288,5 +287,16 @@
 //ID3D11DeviceContext::ClearRenderTargetView():
 //ID3D11DeviceContext::ClearDepthStecilView():
 //IDXGISwapChain::Present():
+
+--------------------------------------------------------------------------------------------------------------
+
+//IDXGISwapChain::SetFullScreenState():
+//ID3D11DeviceContext::Flush():
+//IDXGISwapChain::ResizeBuffer():
+//WM_SIZE:
+//WM_ENTERSIZEMOVE:
+//WM_EXITSIZEMOEVE:
+//WM_MENUCHAR:
+//WM_GETMINMAXINFO:
 
 --------------------------------------------------------------------------------------------------------------
