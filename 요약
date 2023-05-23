@@ -308,4 +308,11 @@
 //ID3D11Device::CreateVertexSharder():
 //ID3D11Device::CreatePixelSharder():
 //ID3D11DeviceContext::VSSetSharder():
+//ID3D11DeviceContext::PSSetSharder():
+//ID3D11Device::CreateInputLayout():
+//ID3D11DeviceContext::IASetInputLayout():
+//ID3D11DeviceContext::IASetVertexBuffer():
+//ID3D11DeviceContext::IASetPrimitiveTopology():
+//ID3D11DeviceContext::Draw():
 
+--------------------------------------------------------------------------------------------------------------
