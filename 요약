@@ -316,3 +316,12 @@
 //ID3D11DeviceContext::Draw():
 
 --------------------------------------------------------------------------------------------------------------
+
+//ID3D11ShaderResourceView:
+//D3D11_SHADER_RESOURCE_VIEW_DESC:
+//D3D1_SUBRESOURCE_DATA:
+//ID3D11Device::CreateShaderResourceView():
+//ID3D11DeviceContext::PSSetShaderResources():
+
+--------------------------------------------------------------------------------------------------------------
+
