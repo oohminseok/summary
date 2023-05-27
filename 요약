@@ -322,6 +322,11 @@
 //D3D1_SUBRESOURCE_DATA:
 //ID3D11Device::CreateShaderResourceView():
 //ID3D11DeviceContext::PSSetShaderResources():
+//D3D11_SAMPLER_DESC:
+//ID3D11DeviceContext::PSSetSamplers():
+//D3D11_BLEND_DESC:
+//D3D11_RENDER_TARGET_BLEND_DESC:
+//ID3D11Device::CraeteBlendState():
+//ID3D11DeviceContext::OMSetBlendState():
 
 --------------------------------------------------------------------------------------------------------------
-
