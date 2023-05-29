@@ -335,5 +335,9 @@
 //ID3D11DeviceContext::UPdateSubresources():
 //DirectX::XMMATRIX:
 //Directx::XMMATRIXTranspose():
+//Directx::XMMatrixIdentity():
+//Directx::XMMatrixRotationZ():
+//Directx::XMMatrixTranslation():
+//DirectX::XM_PI:
 
 --------------------------------------------------------------------------------------------------------------
