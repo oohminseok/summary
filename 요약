@@ -213,18 +213,18 @@
 
 ----------------------------------------------------------------------------------------------------------------
 
-//Cartesian Coordinates:
-//Left-handed Cartesian Coordinates:
-//Vertex:
-//Vector:
-//Primitives:
-//Mesh:
-//Edges:
-//Faces:
-//Polygon:
-//Surfaces:
-//Normal Vector:
-//Model Space(Local Space):
+//Cartesian Coordinates: 좌표계
+//Left-handed Cartesian Coordinates: 왼손좌표계
+//Vertex: 꼭짓점
+//Vector: 방
+//Primitives: 도형을 만들수 있는 기본형태
+//Mesh: Primitives들로 이루어진 도형
+//Edges: 모서리
+//Faces: 면
+//Polygon: 다각형
+//Surfaces: 표면
+//Normal Vector: 면이 바라보는 방향
+//Model Space(Local Space): 
 //World Space:
 //View Space:
 //Projection Space:
