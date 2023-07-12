@@ -224,15 +224,15 @@
 //Polygon: 다각형
 //Surfaces: 표면
 //Normal Vector: 면이 바라보는 방향
-//Model Space(Local Space): 
-//World Space:
-//View Space:
-//Projection Space:
-//Screen Space:
-//World Transform:
-//View Transform:
-//Projection Transform:
-//Clipping:
+//Model Space(Local Space): 모델 공간
+//World Space: 월드 공간
+//View Space: 카메라 공간
+//Projection Space: 투영공간(카메라로 모델을 찍어낸것)
+//Screen Space: 모니터 공간
+//World Transform: 캐릭터를 월드공간에 배치한 과정
+//View Transform: 월드공간에 카메라를 배치한 과정
+//Projection Transform: 카메라로 캐릭터를 투영한 과정
+//Clipping: 모니터 공간으로 잘라주는 작업 
 
 ----------------------------------------------------------------------------------------------------------------
 
