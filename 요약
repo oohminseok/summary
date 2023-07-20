@@ -216,7 +216,7 @@
 //Cartesian Coordinates: 좌표계
 //Left-handed Cartesian Coordinates: 왼손좌표계
 //Vertex: 꼭짓점
-//Vector: 방
+//Vector: 방향향
 //Primitives: 도형을 만들수 있는 기본형태
 //Mesh: Primitives들로 이루어진 도형
 //Edges: 모서리
@@ -236,14 +236,14 @@
 
 ----------------------------------------------------------------------------------------------------------------
 
-//HAL Device:
-//Device Lost:
-//Swap Chain:
-//Tearing:
-//V-Sync(Vertical Synchronization):
-//Directional Light:
-//Ambient Light:
-//Ray-Tracing:
+//HAL Device:그래픽카드에 직접 접근을 하지 못하므로 Directx가 가상의 디바이스를 통해 접근  
+//Device Lost:작업전환시 또는 다른게임을 실행할경우 나타남
+//Swap Chain:버퍼(전면버퍼,후면버퍼)들의 집합
+//Tearing: 전면버퍼, 후면버퍼에 있는 각각의 이미지를 교환중 동시에 이미지가 표현되는 현상
+//V-Sync(Vertical Synchronization): 모니터 갱신 주기를 모두 마칠때까지 기다리는 것
+//Directional Light: 직접 오브젝트를 비추며 방향 색이 있다.
+//Ambient Light:장면의 모든 오브젝트에 영향을 주는 
+//Ray-Tracing: 화면에 표시된 점에 가상의 빛이 발사된다고 가정하고 그 빛이 진행하는 방향을 역으로 추적하는 방식
 //Depth Buffer:
 //Stencil Buffer:
 //Texture:
