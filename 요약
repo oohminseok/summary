@@ -114,7 +114,7 @@
 //상속(inheritance) or 파생(derivation):특징을 물려받는것
 //기반클래스(base class) vs 파생 클래스(derived class): 기반클래스는 부모 파생클래스는 자식의 관계로 볼수 있다.
 //오버라이딩(overriding):상속관계에서 부모의 함수 정의를 자식이 재정의 하는것
-//다형성(polymorphism):다양한 형태로 해석된다는 뜻으로 자식이 어떨떄는 자기 자신으로 해석될수도 있고 부모로 해석될수도 있다.
+//다형성(polymorphism):다양한 형태로 해석된다는 뜻으로 자식이 어떨떄는 자기 자신으로 해석될수도 있고 부모로 해석될수도 있다. 상속,포인터,virtual
 //가상함수(virtual function): 부모의 함수를 자식이 재정의 할것으로 기대하는 것
 //가상 소멸자(virtual destructor): 상속 관계에서 소멸자에 virtual를 붙여서 사용할 경우 부모의 소멸자를 자식이 재정의하는 것으로 기대하므로 자식의 소멸자가 먼저 불린다.
 //upcast vs downcast: 파생클래스->기반클래스 상향변환이다. 기반클래스->파생클래스 하향변환이다. 
@@ -254,11 +254,11 @@
 
 ----------------------------------------------------------------------------------------------------------------
 
-//Pipeline(Stage):
-//Vertex Sharder:
-//Pixel Sharder:
-//Triangle List:
-//Triangle Strip:
+//Pipeline(Stage):3차원 그래픽을 만드는 수송관  
+//Vertex Sharder:꼭지점의 음영
+//Pixel Sharder: 픽셀에 저장된 정보를 이용해 색을 칠한다.
+//Triangle List: 삼각형
+//Triangle Strip: 연결된 삼각형 도형
 //Index Buffer:
 //Vertex Buffer:
 //View Frustum:
