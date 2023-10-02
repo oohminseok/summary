@@ -173,7 +173,7 @@
 //Smart Pointer: 스마트포인터
 //std::unique_ptr: 1대1 소유권을 갖는 스마트 포인터
 //std::list: 연결리스트
-//InvalidateRect(): GDI,GDI+의 일부분을 새로갱신 할떄 사용
+//InvalidateRect(): 클라이언트 영역의 일부분을 새로갱신 할떄 사용
 //std::remove_if: 컨테이너의 원소들중 
 //WS_OVERLAPPED: 윈도우 창 스타일 
 //WS_OVERLAPPEDWINODW:윈도우 창 스타일 
