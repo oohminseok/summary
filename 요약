@@ -246,9 +246,9 @@
 //#define WIN32_LEAN_AND_MEAN: <windows.h>에 포함된 api의 기능중 평균적으로 사용하는것만 포함시켜주며 컴파일 속도가 빨라짐
 //SetForegroundWindow():윈도우를 최상단으로 올려줌
 //SetFocus(): 지정된 윈도우에 키보드 포커스를 지정
-//IDXGISwapChain:
-//ID3D11Device:
-//ID3D11DeviceContext:
+//IDXGISwapChain:스왑체인(버퍼들의 모음)
+//ID3D11Device:디바이스(그래픽카드)
+//ID3D11DeviceContext:디바이스컨텍스트(그래픽카드와 비디오 메모리 제어등의 정보)
 //ID3D11CreateDeviceAndSwapChain():
 //Resoucre&Resource View:
 //ID3D11Texture2D:
