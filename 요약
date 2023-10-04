@@ -249,9 +249,9 @@
 //IDXGISwapChain:스왑체인(버퍼들의 모음)
 //ID3D11Device:디바이스(그래픽카드)
 //ID3D11DeviceContext:디바이스컨텍스트(그래픽카드와 비디오 메모리 제어등의 정보)
-//ID3D11CreateDeviceAndSwapChain():
-//Resoucre&Resource View:
-//ID3D11Texture2D:
+//ID3D11CreateDeviceAndSwapChain(): 디바이스와 스왑체인 생성하는 함수
+//Resoucre&Resource View:데이터 묶음, 데이터 묶음에 대한 설명서
+//ID3D11Texture2D:2D텍스쳐(이미지)를 설명하는 구조체
 //ID3D11RenderTargetView:
 //ID3D11DepthStencilView:
 //IDXGISwapChain::GetBuffer():
