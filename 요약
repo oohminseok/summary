@@ -252,9 +252,9 @@
 //ID3D11CreateDeviceAndSwapChain(): 디바이스와 스왑체인 생성하는 함수
 //Resoucre&Resource View:데이터 묶음, 데이터 묶음에 대한 설명서
 //ID3D11Texture2D:2D텍스쳐(이미지)를 설명하는 구조체
-//ID3D11RenderTargetView:
-//ID3D11DepthStencilView:
-//IDXGISwapChain::GetBuffer():
+//ID3D11RenderTargetView:렌더타겟 뷰
+//ID3D11DepthStencilView:뎁스 스텐실 뷰
+//IDXGISwapChain::GetBuffer(): 스왑체인의 버퍼를 가져옴
 //ID3D11Device::CreateRenderTargetView():
 //ID3D11Device::CreateTexture2D():
 //ID3D11Device::CreateDepthStencilView():
