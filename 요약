@@ -255,9 +255,9 @@
 //ID3D11RenderTargetView:렌더타겟 뷰
 //ID3D11DepthStencilView:뎁스 스텐실 뷰
 //IDXGISwapChain::GetBuffer(): 스왑체인의 버퍼를 가져옴
-//ID3D11Device::CreateRenderTargetView():
-//ID3D11Device::CreateTexture2D():
-//ID3D11Device::CreateDepthStencilView():
+//ID3D11Device::CreateRenderTargetView(): 렌더타겟 뷰 생성
+//ID3D11Device::CreateTexture2D(): 텍스쳐 생성
+//ID3D11Device::CreateDepthStencilView(): 뎁스 스텐실 뷰 생성
 //ID3D11DeviceContext::OMSetRenderTargets():
 //ID3D11DeviceContext::RSSetViewports():
 //ID3D11DeviceContext::ClearRenderTargetView():
