@@ -260,9 +260,9 @@
 //ID3D11Device::CreateDepthStencilView(): 뎁스 스텐실 뷰 생성
 //ID3D11DeviceContext::OMSetRenderTargets():렌더타겟과 깊이-스텐버퍼를 바인딩하여 최종장면을 만드는 과정
 //ID3D11DeviceContext::RSSetViewports():3차원 정보를 2차원으로 변환
-//ID3D11DeviceContext::ClearRenderTargetView():
-//ID3D11DeviceContext::ClearDepthStecilView():
-//IDXGISwapChain::Present():
+//ID3D11DeviceContext::ClearRenderTargetView():렌더타겟 뷰 초기화
+//ID3D11DeviceContext::ClearDepthStecilView():뎁스 스텐실 뷰 초기화
+//IDXGISwapChain::Present():스왑체인을 이용해 이미지를 보여줌
 
 --------------------------------------------------------------------------------------------------------------
 
