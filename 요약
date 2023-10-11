@@ -269,9 +269,9 @@
 //IDXGISwapChain::SetFullScreenState():화면을 창 또는 전체화면으로 지정하는함수   
 //ID3D11DeviceContext::Flush(): cpu에 쌓여있는 명령을 gpu로 즉시 보냄  
 //IDXGISwapChain::ResizeBuffer():화면의 크기가 변경될때 버퍼의 크기를 재설정
-//WM_SIZE:
-//WM_ENTERSIZEMOVE:
-//WM_EXITSIZEMOEVE:
+//WM_SIZE:윈도우 크기가 변경될떄 전달
+//WM_ENTERSIZEMOVE: 윈도우 테두리를 드래그 해서 사이즈를 변경할떄 발
+//WM_EXITSIZEMOEVE:윈도우 테두리를 놓으면 발생
 //WM_MENUCHAR:
 //WM_GETMINMAXINFO:
 
