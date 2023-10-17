@@ -280,9 +280,9 @@
 //ID3D11Device::CreateBuffer(): 버퍼생성
 //ID3D11DeviceContext::Map(): 리소스 매핑
 //ID3D11DeviceContext::Unmap(): 매핑된 리소를 gpu가 읽을수 있도록 Unmap
-//D3DComplieFromFile():
-//ID3D11Device::CreateVertexSharder():
-//ID3D11Device::CreatePixelSharder():
+//D3DComplieFromFile():셰이더 컴파일
+//ID3D11Device::CreateVertexSharder(): 버텍스 셰이터 생성
+//ID3D11Device::CreatePixelSharder(): 픽셀 셰이더 생성
 //ID3D11DeviceContext::VSSetSharder():
 //ID3D11DeviceContext::PSSetSharder():
 //ID3D11Device::CreateInputLayout():
