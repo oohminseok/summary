@@ -285,8 +285,8 @@
 //ID3D11Device::CreatePixelSharder(): 픽셀 셰이더 생성
 //ID3D11DeviceContext::VSSetSharder():버텍스 셰이더 세팅
 //ID3D11DeviceContext::PSSetSharder():픽셀 셰이더 세팅
-//ID3D11Device::CreateInputLayout():
-//ID3D11DeviceContext::IASetInputLayout():
+//ID3D11Device::CreateInputLayout(): 입력레이아웃 생성
+//ID3D11DeviceContext::IASetInputLayout(): 인풋어셈블리에 입력 레이아웃 연결
 //ID3D11DeviceContext::IASetVertexBuffer():
 //ID3D11DeviceContext::IASetPrimitiveTopology():
 //ID3D11DeviceContext::Draw():
