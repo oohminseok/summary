@@ -287,8 +287,8 @@
 //ID3D11DeviceContext::PSSetSharder():픽셀 셰이더 세팅
 //ID3D11Device::CreateInputLayout(): 입력레이아웃 생성
 //ID3D11DeviceContext::IASetInputLayout(): 인풋어셈블리에 입력 레이아웃 연결
-//ID3D11DeviceContext::IASetVertexBuffer():
-//ID3D11DeviceContext::IASetPrimitiveTopology():
+//ID3D11DeviceContext::IASetVertexBuffer(): 인풋어셈블리에 버텍스 버퍼 연결
+//ID3D11DeviceContext::IASetPrimitiveTopology(): 프리미티브(기본도형) 지정
 //ID3D11DeviceContext::Draw():
 
 --------------------------------------------------------------------------------------------------------------
