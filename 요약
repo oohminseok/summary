@@ -289,11 +289,11 @@
 //ID3D11DeviceContext::IASetInputLayout(): 인풋어셈블리에 입력 레이아웃 연결
 //ID3D11DeviceContext::IASetVertexBuffer(): 인풋어셈블리에 버텍스 버퍼 연결
 //ID3D11DeviceContext::IASetPrimitiveTopology(): 프리미티브(기본도형) 지정
-//ID3D11DeviceContext::Draw():
+//ID3D11DeviceContext::Draw():그리기
 
 --------------------------------------------------------------------------------------------------------------
 
-//ID3D11ShaderResourceView:
+//ID3D11ShaderResourceView: 셰이더 리소스 뷰
 //D3D11_SHADER_RESOURCE_VIEW_DESC:
 //D3D1_SUBRESOURCE_DATA:
 //ID3D11Device::CreateShaderResourceView():
