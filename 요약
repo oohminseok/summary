@@ -294,8 +294,8 @@
 --------------------------------------------------------------------------------------------------------------
 
 //ID3D11ShaderResourceView: 셰이더 리소스 뷰
-//D3D11_SHADER_RESOURCE_VIEW_DESC:
-//D3D1_SUBRESOURCE_DATA:
+//D3D11_SHADER_RESOURCE_VIEW_DESC: 셰이더에서 사용하는 리소스 뷰
+//D3D1_SUBRESOURCE_DATA:하위 리소스를 초기화 할때 사용
 //ID3D11Device::CreateShaderResourceView():
 //ID3D11DeviceContext::PSSetShaderResources():
 //D3D11_SAMPLER_DESC:
