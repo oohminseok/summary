@@ -298,8 +298,8 @@
 //D3D1_SUBRESOURCE_DATA:하위 리소스를 초기화 할때 사용
 //ID3D11Device::CreateShaderResourceView(): 셰이더 리소스 뷰 생성
 //ID3D11DeviceContext::PSSetShaderResources(): 셰이더 리소스를 픽셀 셰이더 스테이지로 바인딩
-//D3D11_SAMPLER_DESC:
-//ID3D11DeviceContext::PSSetSamplers():
+//D3D11_SAMPLER_DESC:샘플러 상태 설정
+//ID3D11DeviceContext::PSSetSamplers():샘플러 배열 픽셀 셰이더 파이프라인 스테이지 지정
 //D3D11_BLEND_DESC:
 //D3D11_RENDER_TARGET_BLEND_DESC:
 //ID3D11Device::CraeteBlendState():
