@@ -303,7 +303,7 @@
 //D3D11_BLEND_DESC:블렌드 상태를 생성하기 위한 구조체
 //D3D11_RENDER_TARGET_BLEND_DESC:렌더타겟 블렌드 생성을 위한 구조체
 //ID3D11Device::CraeteBlendState(): 블렌드 상태 생성
-//ID3D11DeviceContext::OMSetBlendState():
+//ID3D11DeviceContext::OMSetBlendState(): output merger에 블렌드 상태지정
 
 --------------------------------------------------------------------------------------------------------------
 
