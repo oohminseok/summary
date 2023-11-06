@@ -307,7 +307,7 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-//ID3D11DeviceContext::VSSetConstantBuffers():
+//ID3D11DeviceContext::VSSetConstantBuffers(): 버텍스 셰이더 스테이지에 상수 버퍼 지정
 //ID3D11DeviceContext::UPdateSubresources():
 //DirectX::XMMATRIX:
 //Directx::XMMATRIXTranspose():
