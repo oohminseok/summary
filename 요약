@@ -308,7 +308,7 @@
 --------------------------------------------------------------------------------------------------------------
 
 //ID3D11DeviceContext::VSSetConstantBuffers(): 버텍스 셰이더 스테이지에 상수 버퍼 지정
-//ID3D11DeviceContext::UPdateSubresources():
+//ID3D11DeviceContext::UPdateSubresources():메모리에서 데이터를 복사하여 map/unmap 불가능한 서브리소스로 넘겨줌
 //DirectX::XMMATRIX:
 //Directx::XMMATRIXTranspose():
 //Directx::XMMatrixIdentity():
