@@ -312,7 +312,7 @@
 //DirectX::XMMATRIX:행렬
 //Directx::XMMATRIXTranspose():전치행열(행과 열을 바꿈)
 //Directx::XMMatrixIdentity():단위행렬
-//Directx::XMMatrixRotationZ():
+//Directx::XMMatrixRotationZ():z축을 기준으로 회전하는 행렬
 //Directx::XMMatrixTranslation():
 //DirectX::XM_PI:
 
