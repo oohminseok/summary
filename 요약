@@ -317,3 +317,7 @@
 //DirectX::XM_PI:파이(π)
 
 --------------------------------------------------------------------------------------------------------------
+
+//QueryPerformanceFrequency():
+//QueryPerformanceCount():
+//SetWindowText():
