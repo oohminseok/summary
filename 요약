@@ -318,6 +318,6 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-//QueryPerformanceFrequency():
+//QueryPerformanceFrequency():운영체제에서 사용하는 성능 카운터의 주파수를 구함
 //QueryPerformanceCount():
 //SetWindowText():
